@@ -2,7 +2,7 @@
 FROM nginx:latest
 
 # person who is maintinaing it 
-MAINTAINER "hari3749@GMAIL.COM
+MAINTAINER "ppraveenp12@GMAIL.COM
 
 
 # copy the our liitle fashion application fiel from source to destination httpd conatiner location 
